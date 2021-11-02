@@ -3,11 +3,11 @@
 	$sbj_owner='Newsletter subscription request from ';
 	$header="Content-type: text/html; charset=utf-8 \r\n";
 
-	$name=$_POST['name'];
-	$email=$_POST['email'];
-	$owner=$_POST['owner'];
-	$owner_email=$_POST['owner_email'];
-	$sitename=$_POST['sitename'];
+	$name=$_POST['gabin.raymond1301@gmail.com'];
+	$email=$_POST['gabin.raymond1301@gmail.com'];
+	$owner=$_POST['gabin.raymond1301@gmail.com'];
+	$owner_email=$_POST['gabin.raymond1301@gmail.com'];
+	$sitename=$_POST['Erdobab'];
 	$sbj_visitor.=$sitename;
 	$sbj_owner.=$sitename;
 	
